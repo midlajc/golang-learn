@@ -4,7 +4,7 @@
     go build
 ```
 
-### Build For target ENV
+### Build For targeted ENV
 
 ```
 # darwin | linux | windows
