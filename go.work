@@ -6,4 +6,7 @@ use (
 	./03_user_input
 	./04_conversion
 	./05_time_and_date
+	./06_pointers
+	./07_array
+	./08_silces
 )
