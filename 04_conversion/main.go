@@ -25,4 +25,8 @@ func main() {
 	} else {
 		fmt.Println("Added 1 to your rating : ", numRating+1)
 	}
+
+	const num = 3
+	numStr := strconv.Itoa(num)
+	fmt.Printf("numStr, %T\n", numStr)
 }

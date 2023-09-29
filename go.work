@@ -9,4 +9,5 @@ use (
 	./06_pointers
 	./07_array
 	./08_silces
+	./09_maps
 )
