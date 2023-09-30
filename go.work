@@ -13,4 +13,5 @@ use (
 	./10_struct
 	./11_if_else
 	./12_switch
+	./13_loops
 )
