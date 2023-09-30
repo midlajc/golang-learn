@@ -12,4 +12,5 @@ use (
 	./09_maps
 	./10_struct
 	./11_if_else
+	./12_switch
 )
