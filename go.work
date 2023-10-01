@@ -14,4 +14,5 @@ use (
 	./11_if_else
 	./12_switch
 	./13_loops
+	./14_functions
 )
