@@ -15,4 +15,5 @@ use (
 	./12_switch
 	./13_loops
 	./14_functions
+	./15_methods
 )
