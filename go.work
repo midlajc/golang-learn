@@ -16,4 +16,5 @@ use (
 	./13_loops
 	./14_functions
 	./15_methods
+	./16_defer
 )
